@@ -1,0 +1,25 @@
+{
+    "description": "Expected results for Example 1 - Smartphone Selection",
+    "method": "MEREC + TOPSIS",
+    "weights": [
+        0.2097,
+        0.2055,
+        0.3362,
+        0.2486
+    ],
+    "scores": [
+        0.4749,
+        0.2235,
+        0.7225,
+        0.47,
+        0.22
+    ],
+    "ranking": [
+        2,
+        3,
+        1,
+        4,
+        5
+    ],
+    "notes": "Approximate values - tolerance of 0.05 recommended"
+}

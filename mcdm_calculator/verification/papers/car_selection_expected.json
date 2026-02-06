@@ -1,0 +1,96 @@
+{
+    "description": "TOPSIS Car Selection Example from Web Search",
+    "source": "Standard TOPSIS numerical example",
+    "method": "Manual Weights + TOPSIS",
+    "criteria_types": [
+        1,
+        -1,
+        1,
+        1
+    ],
+    "criteria_names": [
+        "FuelEfficiency (benefit)",
+        "Price (cost)",
+        "SafetyRating (benefit)",
+        "Comfort (benefit)"
+    ],
+    "weights": [
+        0.25,
+        0.30,
+        0.20,
+        0.25
+    ],
+    "normalized_matrix": [
+        [
+            0.6319,
+            0.6436,
+            0.5744,
+            0.5026
+        ],
+        [
+            0.5048,
+            0.5148,
+            0.6462,
+            0.5744
+        ],
+        [
+            0.5890,
+            0.5663,
+            0.5026,
+            0.6462
+        ]
+    ],
+    "weighted_matrix": [
+        [
+            0.1580,
+            0.1931,
+            0.1149,
+            0.1257
+        ],
+        [
+            0.1262,
+            0.1544,
+            0.1292,
+            0.1436
+        ],
+        [
+            0.1472,
+            0.1699,
+            0.1005,
+            0.1616
+        ]
+    ],
+    "ideal_solution": [
+        0.1580,
+        0.1544,
+        0.1292,
+        0.1616
+    ],
+    "anti_ideal_solution": [
+        0.1262,
+        0.1931,
+        0.1005,
+        0.1257
+    ],
+    "distance_to_ideal": [
+        0.0547,
+        0.0365,
+        0.0344
+    ],
+    "distance_to_anti_ideal": [
+        0.0349,
+        0.0514,
+        0.0476
+    ],
+    "scores": [
+        0.3895,
+        0.5847,
+        0.5805
+    ],
+    "ranking": [
+        3,
+        1,
+        2
+    ],
+    "notes": "Car B should rank first (0.5847), Car C second (0.5805), Car A third (0.3895)"
+}
