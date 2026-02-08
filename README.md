@@ -19,7 +19,12 @@ A comprehensive, **verified** Multi-Criteria Decision Making (MCDM) calculator d
 > 🚀 **Want to get started quickly?** Jump to [Quick Start](#quick-start) or check [QUICK_REFERENCE.md](QUICK_REFERENCE.md).
 
 ---
+## Screenshots
 
+![Dashboard]([docs/images/verification_screenshot.png](https://github.com/sauravkeshrii/mcdm-research-tool/blob/main/1.png))
+![Results]([docs/images/dashboard_screenshot.png](https://github.com/sauravkeshrii/mcdm-research-tool/blob/main/2.png))
+
+---
 ## Features
 
 ### 🔢 Weighting Methods (Objective & Subjective)
