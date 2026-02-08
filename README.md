@@ -21,8 +21,8 @@ A comprehensive, **verified** Multi-Criteria Decision Making (MCDM) calculator d
 ---
 ## Screenshots
 
-![Dashboard]([docs/images/verification_screenshot.png](https://github.com/sauravkeshrii/mcdm-research-tool/blob/main/1.png))
-![Results]([docs/images/dashboard_screenshot.png](https://github.com/sauravkeshrii/mcdm-research-tool/blob/main/2.png))
+![Dashboard]((https://github.com/sauravkeshrii/mcdm-research-tool/blob/main/1.png))
+![Results]((https://github.com/sauravkeshrii/mcdm-research-tool/blob/main/2.png))
 
 ---
 ## Features
