@@ -1,4 +1,4 @@
-# MCDM Calculator - Research-Ready Tool
+# MCDM-Research-Tool
 
 [![Verification Status](https://img.shields.io/badge/Verification-Passed-brightgreen)](VERIFICATION_REPORT.md)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
